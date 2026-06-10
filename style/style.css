@@ -239,7 +239,7 @@ h2, p{
     color: #673AB7;
     border: 1px solid #673AB7;
     border-radius: 20px;
-    background-color: none;
+    background-color: transparent;
 }
 .header-right-part1{
     display: flex;
@@ -265,7 +265,6 @@ h2, p{
     color: #673AB7;
 }
 .button-header-right{
-    background-image: linear-gradient();
     border: 1px solid #979797;
     border-radius: 8px;
     width: 44px;
