@@ -124,7 +124,7 @@ img:hover{
     border-radius: 100px;
     color: #fff;
     background-color: #673AB7;
-    border: 1px splid #673AB7;
+    border: 1px solid #673AB7;
 }
 .icon-menu{
     display: none;
