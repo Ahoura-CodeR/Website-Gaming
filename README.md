@@ -5,19 +5,20 @@ Source code for the `HTML` and `CSS` gaming site, which will also include `JavaS
 ![head site](README.img/image.png)
 ![main site-1](README.img/image-1.png)
 ![main site-2](README.img/image-2.png)
-![main site-3](image.png)
+![main site-3](./README/image-3.png)
 ![main site-4](README.img/image-4.png)
 ![main site-5](README.img/image-5.png)
 ![main site-6](README.img/image-6.png)
 ![main site-7](README.img/image-7.png)
 ![main -site-8](README.img/image-8.png)
 ![main site-9](README.img/image-9.png)
-![main site-10](image-1.png)
+![main site-10](./README/image-10.png)
 ![main site-11](README.img/image-11.png)
-![footer site](image-2.png)
-
+![footer site](./README/image-12.png)
+---
 Language:
 
+---
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
