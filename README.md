@@ -2,31 +2,31 @@
 ####Source code for the `HTML` and `CSS` gaming site, which will also include `JavaScript` and `React` in the future.
 ---
 ##Image Website
-![head site](./image.png)
+![head site](README.img/image.png)
 ---
-![main site-1](./image-1.png)
+![main site-1](README.img/image-1.png)
 ---
-![main site-2](./image-2.png)
+![main site-2](README.img/image-2.png)
 ---
-![main site-3](./image-3.png)
+![main site-3](README.img/image-3.png)
 ---
-![main site-4](./image-4.png)
+![main site-4](README.img/image-4.png)
 ---
-![main site-5](./image-5.png)
+![main site-5](README.img/image-5.png)
 ---
-![main site-6](./image-6.png)
+![main site-6](README.img/image-6.png)
 ---
-![main site-7](./image-7.png)
+![main site-7](README.img/image-7.png)
 ---
-![main -site-8](./image-8.png)
+![main -site-8](README.img/image-8.png)
 ---
-![main site-9](./image-9.png)
+![main site-9](README.img/image-9.png)
 ---
-![main site-10](./image-10.png)
+![main site-10](README.img/image-10.png)
 ---
-![main site-11](./image-11.png)
+![main site-11](README.img/image-11.png)
 ---
-![main site-12](./image-12.png)
+![main site-12](README.img/image-12.png)
 ---
 ##Language:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
